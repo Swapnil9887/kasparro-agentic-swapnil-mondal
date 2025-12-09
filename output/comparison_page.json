@@ -1,0 +1,42 @@
+{
+  "template": "comparison_page",
+  "comparison": {
+    "products": {
+      "primary": {
+        "name": "GlowBoost Vitamin C Serum",
+        "concentration": "10% Vitamin C",
+        "key_ingredients": [
+          "Vitamin C",
+          "Hyaluronic Acid"
+        ],
+        "benefits": [
+          "Brightening",
+          "Fades dark spots"
+        ],
+        "price": "\u20b9699"
+      },
+      "alternative": {
+        "name": "CalmRadiance Gentle C Serum",
+        "concentration": "5% Vitamin C",
+        "key_ingredients": [
+          "Vitamin C",
+          "Aloe",
+          "Hyaluronic Acid"
+        ],
+        "benefits": [
+          "Gradual brightening",
+          "Soothing hydration"
+        ],
+        "price": "\u20b9549"
+      }
+    },
+    "recommendation_logic": [
+      "Pick the primary serum for brightening and spot fading with lightweight feel.",
+      "Pick the alternative for first-time Vitamin C users wanting lower strength with added soothing."
+    ]
+  },
+  "who_should_choose_which": {
+    "primary": "Choose GlowBoost for faster brightening and spot fading.",
+    "alternative": "Choose Product B if you want a gentler start with Vitamin C."
+  }
+}

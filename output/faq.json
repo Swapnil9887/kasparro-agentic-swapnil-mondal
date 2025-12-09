@@ -1,0 +1,88 @@
+{
+  "template": "faq_page",
+  "product": {
+    "name": "GlowBoost Vitamin C Serum"
+  },
+  "faqs": [
+    {
+      "question": "What does GlowBoost Vitamin C Serum do for the skin?",
+      "answer": "GlowBoost Vitamin C Serum uses 10% Vitamin C with Vitamin C, Hyaluronic Acid to deliver brightening, fades dark spots.",
+      "category": "Informational"
+    },
+    {
+      "question": "Is the 10% Vitamin C level gentle enough for daily use?",
+      "answer": "GlowBoost Vitamin C Serum uses 10% Vitamin C with Vitamin C, Hyaluronic Acid to deliver brightening, fades dark spots.",
+      "category": "Informational"
+    },
+    {
+      "question": "How long until I see results from GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum uses 10% Vitamin C with Vitamin C, Hyaluronic Acid to deliver brightening, fades dark spots.",
+      "category": "Informational"
+    },
+    {
+      "question": "How should I apply GlowBoost Vitamin C Serum in my routine?",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen Use on clean skin and seal with moisturizer plus sunscreen.",
+      "category": "Usage"
+    },
+    {
+      "question": "Can I layer this serum with moisturizer and sunscreen?",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen Use on clean skin and seal with moisturizer plus sunscreen.",
+      "category": "Usage"
+    },
+    {
+      "question": "How many drops of GlowBoost Vitamin C Serum should I use each time?",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen Use on clean skin and seal with moisturizer plus sunscreen.",
+      "category": "Usage"
+    },
+    {
+      "question": "Should I use GlowBoost Vitamin C Serum in the morning or at night?",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen Use on clean skin and seal with moisturizer plus sunscreen.",
+      "category": "Usage"
+    },
+    {
+      "question": "Is GlowBoost Vitamin C Serum suitable for Oily, Combination skin?",
+      "answer": "Designed for Oily, Combination skin. Side effects can include Mild tingling for sensitive skin. Patch test before full use.",
+      "category": "Safety"
+    },
+    {
+      "question": "Will this serum cause purging or breakouts?",
+      "answer": "Designed for Oily, Combination skin. Side effects can include Mild tingling for sensitive skin. Patch test before full use.",
+      "category": "Safety"
+    },
+    {
+      "question": "What side effects should I watch out for?",
+      "answer": "Designed for Oily, Combination skin. Side effects can include Mild tingling for sensitive skin. Patch test before full use.",
+      "category": "Safety"
+    },
+    {
+      "question": "Do I need to patch test before using this serum?",
+      "answer": "Designed for Oily, Combination skin. Side effects can include Mild tingling for sensitive skin. Patch test before full use.",
+      "category": "Safety"
+    },
+    {
+      "question": "What is the price of GlowBoost Vitamin C Serum?",
+      "answer": "The serum is priced at \u20b9699 and has a lightweight, non-sticky texture.",
+      "category": "Purchase"
+    },
+    {
+      "question": "Does the serum come in a dropper bottle?",
+      "answer": "The serum is priced at \u20b9699 and has a lightweight, non-sticky texture.",
+      "category": "Purchase"
+    },
+    {
+      "question": "Is the formula lightweight and non-sticky?",
+      "answer": "The serum is priced at \u20b9699 and has a lightweight, non-sticky texture.",
+      "category": "Purchase"
+    },
+    {
+      "question": "How does GlowBoost Vitamin C Serum compare to another Vitamin C serum?",
+      "answer": "GlowBoost focuses on brightening and fading spots. Compare concentration, price, and soothing ingredients when choosing an alternative.",
+      "category": "Comparison"
+    },
+    {
+      "question": "Which serum is better for beginners with sensitive skin?",
+      "answer": "GlowBoost focuses on brightening and fading spots. Compare concentration, price, and soothing ingredients when choosing an alternative.",
+      "category": "Comparison"
+    }
+  ]
+}
